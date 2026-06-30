@@ -7,7 +7,7 @@ import io
 
 # ตั้งค่าหน้าเว็บ
 st.set_page_config(page_title="Image Table to Excel Extractor", layout="centered")
-st.title("📸 แปลงรูปภาพตารางเลข 6 หลัก เป็น Excel")
+st.title("📸 แปลงรูปภาพตารางเลข 6 หลัก เป็น Excels")
 st.write("อัพโหลดรูปภาพตารางระบุเลข 6 หลัก (รวมหลายไฟล์ได้) เพื่อรวมเป็น Excel คอลัมน์เดียว")
 
 # โหลดตัวอ่าน OCR (ใช้ภาษาอังกฤษเป็นหลักสำหรับตัวเลข)
